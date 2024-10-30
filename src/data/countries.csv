@@ -1,0 +1,31 @@
+Ranking,Pais,CantidadSurcoreanos,Continente,Distancia,Razon
+1,EE.UU.,2615419,América del Norte,10007,Económica
+2,China,2109727,Asia,2117,Histórica
+3,Japón,802118,Asia,942,Histórica
+4,Canadá,247362,América del Norte,8574,Económica
+5,Vietnam,178122,Asia,3109,Económica
+6,Uzbekistán,174490,Asia,5396,Histórica
+7,Australia,159771,Oceanía,6828,Económica
+8,Rusia,124811,Asia,3251,Histórica
+9,Kazajistán,121130,Asia,5065,Histórica
+10,Alemania,49683,Europa,8564,Económica
+11,Brasil,47544,América del Sur,17594,Económica
+12,Reino Unido,39097,Europa,8852,Económica
+13,Filipinas,34148,Asia,2628,Educativa
+14,Nueva Zelanda,31810,Oceanía,9794,Educativa
+15,Francia,27055,Europa,9378,Educativa
+16,Indonesia,25153,Asia,4322,Económica
+17,Argentina,23089,América del Sur,18957,Económica
+18,Singapur,21203,Asia,4564,Educativa
+19,Tailandia,20353,Asia,3460,Otro
+20,Kirguistán,20229,Asia,4572,Histórica
+21,México,13158,América del Norte,11536,Económica
+22,Malasia,13152,Asia,4402,Económica
+23,Suecia,12986,Europa,7544,Otro
+24,Ucrania,12765,Europa,7543,Histórica
+25,India,11360,Asia,5014,Económica
+26,Países Bajos,9398,Europa,8745,Otro
+27,Emiratos Árabes Unidos,9227,Asia,7107,Económica
+28,Dinamarca,8844,Europa,8229,Otro
+29,Camboya,7800,Asia,3453,Económica
+30,Noruega,6670,Europa,7961,Económica
